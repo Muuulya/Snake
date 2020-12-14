@@ -5,3 +5,10 @@ C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\obj\Debug\Snake.c
 C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\obj\Debug\Snake.exe
 C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\obj\Debug\Snake.pdb
+C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\andre\OneDrive\Документы\C#\GeekBrains\Snake\Snake\obj\Debug\Snake.pdb
